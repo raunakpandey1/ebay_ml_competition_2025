@@ -1,0 +1,13 @@
+
+.DS_Store
+__pycache__/
+*.log
+*.pth
+*.ckpt
+*.csv
+*.ipynb_checkpoints
+.vscode/
+.env
+.idea/
+data/
+
