@@ -29,8 +29,8 @@ eBay vehicle-parts titles are short, noisy, and full of abbreviations (e.g., OEM
 - Optional: rule-based cleanup for units (mm, inch), part numbers, and OEM codes
 
 ### 2) Labeling Format
-- Converted annotations into **BIOS** scheme:
-  - **B-**egin, **I-**nside, **O**utside, **S-**ingle-token entity
+- Converted annotations into **BIOES** scheme:
+  - **B**-egin, **I**-nside, **O**-utside, **E**-nd, **S**-ingle-token entity
 
 ### 3) Model
 - Transformer token classifier:
